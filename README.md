@@ -35,7 +35,7 @@ This project is a backend API built with Laravel for managing users and products
 
 2. **Navigate to the project directory**:
    ```bash
-   cd your-repo
+   cd tenjaz-task
    ```
 
 3. **Install dependencies**:
